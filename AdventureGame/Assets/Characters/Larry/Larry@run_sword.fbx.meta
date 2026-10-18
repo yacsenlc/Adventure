@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: c19de148b35564ff0befa8be2d3a5438
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: animationArmature
+    100002: ArmPoleVector_L
+    100004: ArmPoleVector_R
+    100006: Bone
+    100008: Chest
+    100010: Clavicle_L
+    100012: Clavicle_R
+    100014: Fingers_1_L
+    100016: Fingers_1_R
+    100018: Fingers_2_L
+    100020: Fingers_2_R
+    100022: Foot_IK_L
+    100024: Foot_IK_R
+    100026: Foot_L
+    100028: Foot_R
+    100030: Hand_IK_L
+    100032: Hand_IK_R
+    100034: Hand_L
+    100036: Hand_R
+    100038: Head
+    100040: Hip
+    100042: Index_1_L
+    100044: Index_1_R
+    100046: Index_2_L
+    100048: Index_2_R
+    100050: IndexFingerDriver_L
+    100052: IndexFingerDriver_R
+    100054: //RootNode
+    100056: LegPoleVector_L
+    100058: LegPoleVector_R
+    100060: LoweLeg_L
+    100062: LoweLeg_R
+    100064: LowerArm_L
+    100066: LowerArm_R
+    100068: MiddleFingerDriver_L
+    100070: MiddleFingerDriver_R
+    100072: Neck
+    100074: Stomach
+    100076: Thumb_1_L
+    100078: Thumb_1_R
+    100080: Thumb_2_L
+    100082: Thumb_2_R
+    100084: ThumbFingerDriver_L
+    100086: ThumbFingerDriver_R
+    100088: Toe_L
+    100090: Toe_R
+    100092: UpperArm_L
+    100094: UpperArm_R
+    100096: UpperLeg_L
+    100098: UpperLeg_R
+    100100: bindArmature
+    100102: LarryPitfall
+    100104: Chest_0
+    100106: Clavicle_L_0
+    100108: Clavicle_R_0
+    100110: Control
+    100112: Control10
+    100114: Control2
+    100116: Control3
+    100118: Control4
+    100120: Control5
+    100122: Control6
+    100124: Control7
+    100126: Control8
+    100128: Control9
+    100130: Cube
+    100132: FingerControl
+    100134: Fingers_1_L_0
+    100136: Fingers_1_R_0
+    100138: Fingers_2_L_0
+    100140: Fingers_2_R_0
+    100142: Flecha
+    100144: Flecha2
+    100146: Foot_L_0
+    100148: Foot_R_0
+    100150: Hand_L_0
+    100152: Hand_R_0
+    100154: Head_0
+    100156: Hip_0
+    100158: Index_1_L_0
+    100160: Index_1_R_0
+    100162: Index_2_L_0
+    100164: Index_2_R_0
+    100166: LoweLeg_L_0
+    100168: LoweLeg_R_0
+    100170: LowerArm_L_0
+    100172: LowerArm_R_0
+    100174: Neck_0
+    100176: pistol_curve
+    100178: Stomach_0
+    100180: Thumb_1_L_0
+    100182: Thumb_1_R_0
+    100184: Thumb_2_L_0
+    100186: Thumb_2_R_0
+    100188: Toe_L_0
+    100190: Toe_R_0
+    100192: UpperArm_L_0
+    100194: UpperArm_R_0
+    100196: UpperLeg_L_0
+    100198: UpperLeg_R_0
+    400000: animationArmature
+    400002: ArmPoleVector_L
+    400004: ArmPoleVector_R
+    400006: Bone
+    400008: Chest
+    400010: Clavicle_L
+    400012: Clavicle_R
+    400014: Fingers_1_L
+    400016: Fingers_1_R
+    400018: Fingers_2_L
+    400020: Fingers_2_R
+    400022: Foot_IK_L
+    400024: Foot_IK_R
+    400026: Foot_L
+    400028: Foot_R
+    400030: Hand_IK_L
+    400032: Hand_IK_R
+    400034: Hand_L
+    400036: Hand_R
+    400038: Head
+    400040: Hip
+    400042: Index_1_L
+    400044: Index_1_R
+    400046: Index_2_L
+    400048: Index_2_R
+    400050: IndexFingerDriver_L
+    400052: IndexFingerDriver_R
+    400054: //RootNode
+    400056: LegPoleVector_L
+    400058: LegPoleVector_R
+    400060: LoweLeg_L
+    400062: LoweLeg_R
+    400064: LowerArm_L
+    400066: LowerArm_R
+    400068: MiddleFingerDriver_L
+    400070: MiddleFingerDriver_R
+    400072: Neck
+    400074: Stomach
+    400076: Thumb_1_L
+    400078: Thumb_1_R
+    400080: Thumb_2_L
+    400082: Thumb_2_R
+    400084: ThumbFingerDriver_L
+    400086: ThumbFingerDriver_R
+    400088: Toe_L
+    400090: Toe_R
+    400092: UpperArm_L
+    400094: UpperArm_R
+    400096: UpperLeg_L
+    400098: UpperLeg_R
+    400100: bindArmature
+    400102: LarryPitfall
+    400104: Chest_0
+    400106: Clavicle_L_0
+    400108: Clavicle_R_0
+    400110: Control
+    400112: Control10
+    400114: Control2
+    400116: Control3
+    400118: Control4
+    400120: Control5
+    400122: Control6
+    400124: Control7
+    400126: Control8
+    400128: Control9
+    400130: Cube
+    400132: FingerControl
+    400134: Fingers_1_L_0
+    400136: Fingers_1_R_0
+    400138: Fingers_2_L_0
+    400140: Fingers_2_R_0
+    400142: Flecha
+    400144: Flecha2
+    400146: Foot_L_0
+    400148: Foot_R_0
+    400150: Hand_L_0
+    400152: Hand_R_0
+    400154: Head_0
+    400156: Hip_0
+    400158: Index_1_L_0
+    400160: Index_1_R_0
+    400162: Index_2_L_0
+    400164: Index_2_R_0
+    400166: LoweLeg_L_0
+    400168: LoweLeg_R_0
+    400170: LowerArm_L_0
+    400172: LowerArm_R_0
+    400174: Neck_0
+    400176: pistol_curve
+    400178: Stomach_0
+    400180: Thumb_1_L_0
+    400182: Thumb_1_R_0
+    400184: Thumb_2_L_0
+    400186: Thumb_2_R_0
+    400188: Toe_L_0
+    400190: Toe_R_0
+    400192: UpperArm_L_0
+    400194: UpperArm_R_0
+    400196: UpperLeg_L_0
+    400198: UpperLeg_R_0
+    2300000: Control
+    2300002: Control10
+    2300004: Control2
+    2300006: Control3
+    2300008: Control4
+    2300010: Control5
+    2300012: Control6
+    2300014: Control7
+    2300016: Control8
+    2300018: Control9
+    2300020: FingerControl
+    2300022: Flecha
+    2300024: Flecha2
+    2300026: pistol_curve
+    3300000: Control
+    3300002: Control10
+    3300004: Control2
+    3300006: Control3
+    3300008: Control4
+    3300010: Control5
+    3300012: Control6
+    3300014: Control7
+    3300016: Control8
+    3300018: Control9
+    3300020: FingerControl
+    3300022: Flecha
+    3300024: Flecha2
+    3300026: pistol_curve
+    4300000: LarryPitfall
+    4300002: pistol_curve
+    4300004: FingerControl
+    4300006: Control10
+    4300008: Control9
+    4300010: Control8
+    4300012: Control7
+    4300014: Control6
+    4300016: Control5
+    4300018: Flecha2
+    4300020: Flecha
+    4300022: Control4
+    4300024: Control3
+    4300026: Control2
+    4300028: Control
+    4300030: Cube
+    7400000: run_sword
+    9500000: //RootNode
+    13700000: LarryPitfall
+    13700002: Cube
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Backpack__LarryPitfall_bake_png
+    second: {fileID: 2100000, guid: 1011320df8a54487da92d58a2ca97915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boots__LarryPitfall_bake_png
+    second: {fileID: 2100000, guid: 1011320df8a54487da92d58a2ca97915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair__LarryPitfall_bake_png
+    second: {fileID: 2100000, guid: 1011320df8a54487da92d58a2ca97915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pants__LarryPitfall_bake_png
+    second: {fileID: 2100000, guid: 1011320df8a54487da92d58a2ca97915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ribbon__LarryPitfall_bake_png
+    second: {fileID: 2100000, guid: 1011320df8a54487da92d58a2ca97915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt__LarryPitfall_bake_png
+    second: {fileID: 2100000, guid: 1011320df8a54487da92d58a2ca97915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin__LarryPitfall_bake_png
+    second: {fileID: 2100000, guid: 1011320df8a54487da92d58a2ca97915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sole__LarryPitfall_bake_png
+    second: {fileID: 2100000, guid: 1011320df8a54487da92d58a2ca97915, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run_sword
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bindArmature
+        weight: 1
+      - path: bindArmature/Hip
+        weight: 1
+      - path: bindArmature/Hip/Stomach
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L/Fingers_1_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L/Fingers_1_L/Fingers_2_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L/Index_1_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L/Index_1_L/Index_2_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_1_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_1_L/Thumb_2_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R/Fingers_1_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R/Fingers_1_R/Fingers_2_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R/Index_1_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R/Index_1_R/Index_2_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_1_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_1_R/Thumb_2_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Neck
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_L
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_L/LoweLeg_L
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_L/LoweLeg_L/Foot_L
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_L/LoweLeg_L/Foot_L/Toe_L
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_R
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_R/LoweLeg_R
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_R/LoweLeg_R/Foot_R
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_R/LoweLeg_R/Foot_R/Toe_R
+        weight: 1
+      - path: LarryPitfall
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Hip
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

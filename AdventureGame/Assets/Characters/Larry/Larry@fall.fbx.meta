@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: dcc77a17cbc69454fa6e64044dc05181
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: bindArmature
+    100002: Chest
+    100004: Clavicle_L
+    100006: Clavicle_R
+    100008: Fingers_1_L
+    100010: Fingers_1_R
+    100012: Fingers_2_L
+    100014: Fingers_2_R
+    100016: Foot_L
+    100018: Foot_R
+    100020: Hand_L
+    100022: Hand_R
+    100024: Head
+    100026: Hip
+    100028: Index_1_L
+    100030: Index_1_R
+    100032: Index_2_L
+    100034: Index_2_R
+    100036: LarryPitfall
+    100038: //RootNode
+    100040: LoweLeg_L
+    100042: LoweLeg_R
+    100044: LowerArm_L
+    100046: LowerArm_R
+    100048: Neck
+    100050: Stomach
+    100052: Thumb_1_L
+    100054: Thumb_1_R
+    100056: Thumb_2_L
+    100058: Thumb_2_R
+    100060: Toe_L
+    100062: Toe_R
+    100064: UpperArm_L
+    100066: UpperArm_R
+    100068: UpperLeg_L
+    100070: UpperLeg_R
+    100072: animationArmature
+    100074: ArmPoleVector_L
+    100076: ArmPoleVector_R
+    100078: Bone
+    100080: Chest_0
+    100082: Clavicle_L_0
+    100084: Clavicle_R_0
+    100086: Control
+    100088: Control10
+    100090: Control2
+    100092: Control3
+    100094: Control4
+    100096: Control5
+    100098: Control6
+    100100: Control7
+    100102: Control8
+    100104: Control9
+    100106: Cube
+    100108: FingerControl
+    100110: Fingers_1_L_0
+    100112: Fingers_1_R_0
+    100114: Fingers_2_L_0
+    100116: Fingers_2_R_0
+    100118: Flecha
+    100120: Flecha2
+    100122: Foot_IK_L
+    100124: Foot_IK_R
+    100126: Foot_L_0
+    100128: Foot_R_0
+    100130: Hand_IK_L
+    100132: Hand_IK_R
+    100134: Hand_L_0
+    100136: Hand_R_0
+    100138: Head_0
+    100140: Hip_0
+    100142: Index_1_L_0
+    100144: Index_1_R_0
+    100146: Index_2_L_0
+    100148: Index_2_R_0
+    100150: IndexFingerDriver_L
+    100152: IndexFingerDriver_R
+    100154: LegPoleVector_L
+    100156: LegPoleVector_R
+    100158: LoweLeg_L_0
+    100160: LoweLeg_R_0
+    100162: LowerArm_L_0
+    100164: LowerArm_R_0
+    100166: MiddleFingerDriver_L
+    100168: MiddleFingerDriver_R
+    100170: Neck_0
+    100172: pistol_curve
+    100174: Stomach_0
+    100176: Thumb_1_L_0
+    100178: Thumb_1_R_0
+    100180: Thumb_2_L_0
+    100182: Thumb_2_R_0
+    100184: ThumbFingerDriver_L
+    100186: ThumbFingerDriver_R
+    100188: Toe_L_0
+    100190: Toe_R_0
+    100192: UpperArm_L_0
+    100194: UpperArm_R_0
+    100196: UpperLeg_L_0
+    100198: UpperLeg_R_0
+    400000: bindArmature
+    400002: Chest
+    400004: Clavicle_L
+    400006: Clavicle_R
+    400008: Fingers_1_L
+    400010: Fingers_1_R
+    400012: Fingers_2_L
+    400014: Fingers_2_R
+    400016: Foot_L
+    400018: Foot_R
+    400020: Hand_L
+    400022: Hand_R
+    400024: Head
+    400026: Hip
+    400028: Index_1_L
+    400030: Index_1_R
+    400032: Index_2_L
+    400034: Index_2_R
+    400036: LarryPitfall
+    400038: //RootNode
+    400040: LoweLeg_L
+    400042: LoweLeg_R
+    400044: LowerArm_L
+    400046: LowerArm_R
+    400048: Neck
+    400050: Stomach
+    400052: Thumb_1_L
+    400054: Thumb_1_R
+    400056: Thumb_2_L
+    400058: Thumb_2_R
+    400060: Toe_L
+    400062: Toe_R
+    400064: UpperArm_L
+    400066: UpperArm_R
+    400068: UpperLeg_L
+    400070: UpperLeg_R
+    400072: animationArmature
+    400074: ArmPoleVector_L
+    400076: ArmPoleVector_R
+    400078: Bone
+    400080: Chest_0
+    400082: Clavicle_L_0
+    400084: Clavicle_R_0
+    400086: Control
+    400088: Control10
+    400090: Control2
+    400092: Control3
+    400094: Control4
+    400096: Control5
+    400098: Control6
+    400100: Control7
+    400102: Control8
+    400104: Control9
+    400106: Cube
+    400108: FingerControl
+    400110: Fingers_1_L_0
+    400112: Fingers_1_R_0
+    400114: Fingers_2_L_0
+    400116: Fingers_2_R_0
+    400118: Flecha
+    400120: Flecha2
+    400122: Foot_IK_L
+    400124: Foot_IK_R
+    400126: Foot_L_0
+    400128: Foot_R_0
+    400130: Hand_IK_L
+    400132: Hand_IK_R
+    400134: Hand_L_0
+    400136: Hand_R_0
+    400138: Head_0
+    400140: Hip_0
+    400142: Index_1_L_0
+    400144: Index_1_R_0
+    400146: Index_2_L_0
+    400148: Index_2_R_0
+    400150: IndexFingerDriver_L
+    400152: IndexFingerDriver_R
+    400154: LegPoleVector_L
+    400156: LegPoleVector_R
+    400158: LoweLeg_L_0
+    400160: LoweLeg_R_0
+    400162: LowerArm_L_0
+    400164: LowerArm_R_0
+    400166: MiddleFingerDriver_L
+    400168: MiddleFingerDriver_R
+    400170: Neck_0
+    400172: pistol_curve
+    400174: Stomach_0
+    400176: Thumb_1_L_0
+    400178: Thumb_1_R_0
+    400180: Thumb_2_L_0
+    400182: Thumb_2_R_0
+    400184: ThumbFingerDriver_L
+    400186: ThumbFingerDriver_R
+    400188: Toe_L_0
+    400190: Toe_R_0
+    400192: UpperArm_L_0
+    400194: UpperArm_R_0
+    400196: UpperLeg_L_0
+    400198: UpperLeg_R_0
+    2300000: Control
+    2300002: Control10
+    2300004: Control2
+    2300006: Control3
+    2300008: Control4
+    2300010: Control5
+    2300012: Control6
+    2300014: Control7
+    2300016: Control8
+    2300018: Control9
+    2300020: FingerControl
+    2300022: Flecha
+    2300024: Flecha2
+    2300026: pistol_curve
+    3300000: Control
+    3300002: Control10
+    3300004: Control2
+    3300006: Control3
+    3300008: Control4
+    3300010: Control5
+    3300012: Control6
+    3300014: Control7
+    3300016: Control8
+    3300018: Control9
+    3300020: FingerControl
+    3300022: Flecha
+    3300024: Flecha2
+    3300026: pistol_curve
+    4300000: LarryPitfall
+    4300002: pistol_curve
+    4300004: FingerControl
+    4300006: Control10
+    4300008: Control9
+    4300010: Control8
+    4300012: Control7
+    4300014: Control6
+    4300016: Control5
+    4300018: Flecha2
+    4300020: Flecha
+    4300022: Control4
+    4300024: Control3
+    4300026: Control2
+    4300028: Control
+    4300030: Cube
+    7400000: fall
+    9500000: //RootNode
+    13700000: LarryPitfall
+    13700002: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: fall
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bindArmature
+        weight: 1
+      - path: bindArmature/Hip
+        weight: 1
+      - path: bindArmature/Hip/Stomach
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L/Fingers_1_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L/Fingers_1_L/Fingers_2_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L/Index_1_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L/Index_1_L/Index_2_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_1_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_1_L/Thumb_2_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R/Fingers_1_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R/Fingers_1_R/Fingers_2_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R/Index_1_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R/Index_1_R/Index_2_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_1_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_1_R/Thumb_2_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Neck
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_L
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_L/LoweLeg_L
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_L/LoweLeg_L/Foot_L
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_L/LoweLeg_L/Foot_L/Toe_L
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_R
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_R/LoweLeg_R
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_R/LoweLeg_R/Foot_R
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_R/LoweLeg_R/Foot_R/Toe_R
+        weight: 1
+      - path: LarryPitfall
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
